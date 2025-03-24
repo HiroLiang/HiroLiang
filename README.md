@@ -79,8 +79,6 @@ modern programmers are expected to understand the entire system flow, end to end
   <br>
 </details>
 
-<br>
-
 <details open>
   <summary align="center">
     <strong>📊 GitHub Stats</strong>
