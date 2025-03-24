@@ -96,4 +96,19 @@ modern programmers are expected to understand the entire system flow, end to end
   </div>
 
   <br>
+
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=HiroLiang&bg_color=00000000&color=FFFFFF&line=DEFFAC&point=424200" />
+  </div>
+
+  <br>
 </details>
+<div align="center">
+  <br>
+  <p align="centre">
+    <b>Visitors Count</b>
+  </p>  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{HiroLiang}/count.svg" />
+  </p> 
+</div>
