@@ -68,8 +68,14 @@ modern programmers are expected to understand the entire system flow, end to end
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="4">
+      <td align="center" width="140">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br><strong>Node.js</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60"/><br><strong>GCP</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><strong>Git</strong>
       </td>
     </tr>
   </table>
