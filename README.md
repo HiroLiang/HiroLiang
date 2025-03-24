@@ -1,5 +1,5 @@
 <header align="center">
-    <img src="./stastic/I am the goat of my sword.gif" alt="Banner" />
+    <img src="./stastic/I_am_the_goat_of_my_sword.gif" alt="Banner" />
 </header>
 
 <hr>
