@@ -77,6 +77,9 @@ modern programmers are expected to understand the entire system flow, end to end
       <td align="center" width="140">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><strong>Git</strong>
       </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br><strong>Linux</strong>
+      </td>
     </tr>
   </table>
 
