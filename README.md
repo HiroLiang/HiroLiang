@@ -6,27 +6,65 @@
 <br>
 
 <details open>
-  <summary align="center"><strong>💡 About Me</strong></summary>
+  <summary align="center">
+    <strong>About Me</strong>
+  </summary>
+
   <br>
 
   <p align="center">
-    👨‍💻 Software engineer in progress.  
-    🧠 Focused on system design & DevOps thinking.
+    My journey began in 2023 as a Software Engineer, a path of discovery that led me to the role of <strong>Configuration Manager (CM)</strong>. My passion lies in meticulously charting the <strong>flow of program logic</strong> and architecting designs that ensure both <strong>realism and stability</strong>.
   </p>
 
+  ---
+
+  ## Professional Journey
+
   <ul>
-    <li>📅 Start programing in Dec. 2023. Backend Java team leader (5 members).</li>
-    <li>☁️ Cloud made everything—traffic, compute, storage—measurable and chargable.</li>
-    <li>🤖 AI tools are flattening the tech landscape; depth and breadth both matter.</li>
-    <li>🌐 From frontend to firewall, through F5, proxy, microservices, backend servers, Kafka, cache, and SQL—
-modern programmers are expected to understand the entire system flow, end to end.</li>
-    <li>🔧 DevOps is mindset, not just tools. Ownership, observability, and automation matter.</li>
-    <li>🧩 System design is about making scalable, resilient, and evolving choices.</li>
+    <li>
+      <strong>Leadership Transition:</strong> I stepped into the role of <strong>Backend Java Team Leader</strong> in <strong>December 2023</strong>. I subsequently transitioned to a <strong>vendor role</strong>, where I currently assist with the development and architecture of a major bank's application system.
+    </li>
   </ul>
 
-  <br>
-</details>
+  ---
 
+  ## Core Areas of Expertise
+
+  My practical experience spans the full lifecycle of complex financial platforms:
+
+  <ul>
+    <li>
+      <strong>Financial Platform Development:</strong> Led the <strong>full-stack development</strong>, <strong>project architecture design</strong>, and <strong>deployment</strong> of platforms for bank application processing (covering both front-end and back-end systems).
+    </li>
+    <li>
+      <strong>Mobile Application Backend:</strong> Developed and maintained <strong>backend functionalities</strong> specifically for the bank's customer-facing mobile application.
+    </li>
+    <li>
+      <strong>DevOps & Infrastructure Tooling:</strong> Designed and implemented essential <strong>developer tools, scripts, containers, and deployment processes</strong> for both front-end and back-end environments.
+    </li>
+    <li>
+      <strong>QA & Testing Enablement:</strong> Developed and designed <strong>full-stack tools</strong> to enhance efficiency for quality assurance and testing personnel.
+    </li>
+  </ul>
+
+  ---
+
+  ## Technical Stack
+
+  My primary development tools and technologies include:
+
+  <ul>
+    <li><strong>Backend & Frameworks:</strong> Java Spring Boot, JBoss</li>
+    <li><strong>Containerization & Orchestration:</strong> Docker, OCP (OpenShift Container Platform)</li>
+    <li><strong>Frontend:</strong> Angular, Vue</li>
+  </ul>
+
+  ---
+
+  ## Research & Side Projects
+
+  I maintain an active interest in next-generation technologies, exploring new languages and AI/ML capabilities through personal research and side projects, including <strong>Go</strong>, <strong>Rust</strong>, <strong>Tauri</strong>, <strong>React</strong>, <strong>Ollama</strong>, and <strong>llama-cpp</strong>.
+</details>
 
 <details open>
   <summary align="center">
