@@ -85,10 +85,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/><br><strong>Spring</strong>
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br><strong>Docker</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60"/><br><strong>Go</strong>
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/><br><strong>K8s</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="60"/><br><strong>Rust</strong>
       </td>
     </tr>
     <tr>
@@ -96,27 +96,41 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br><strong>TypeScript</strong>
       </td>
       <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="60"/><br><strong>Angular</strong>
+      </td>
+      <td align="center" width="140">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60"/><br><strong>Vue</strong>
       </td>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60"/><br><strong>Go</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/><br><strong>C</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br><strong>React</strong>
       </td>
     </tr>
     <tr>
       <td align="center" width="140">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br><strong>Node.js</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br><strong>Docker</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/><br><strong>K8s</strong>
       </td>
       <td align="center" width="140">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60"/><br><strong>GCP</strong>
       </td>
       <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br><strong>Python</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><strong>Git</strong>
       </td>
       <td align="center" width="140">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br><strong>Linux</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://raw.githubusercontent.com/ml-explore/mlx/main/docs/src/_static/mlx_logo.png" width="60"/><br><strong>MLX</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/meta-color.png" width="60"/><br><strong>Llama</strong>
       </td>
     </tr>
   </table>
